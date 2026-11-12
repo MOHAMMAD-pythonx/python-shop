@@ -1,0 +1,1 @@
+sabad : ['sib', 'moz', 'anar']jam : 950
